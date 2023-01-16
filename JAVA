@@ -1,1 +1,1 @@
-echo "hello ${fileName} file"
+hello JAVA file
